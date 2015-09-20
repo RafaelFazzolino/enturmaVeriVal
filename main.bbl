@@ -30,4 +30,18 @@ Dispon{\'\i}vel em:
 {ANDRADE, A. L.~L. \emph{Usabilidade de Interfaces Web - Avaliação
   Heurística no Jornalismo On-line}. [S.l.]: 1rd, 2007.}
 
+\bibitem{avaliacao_ases}
+\abntrefinfo{Federal}{FEDERAL}{a}
+{FEDERAL, G. \emph{Avaliador e Simulador de Acessibilidade do Governo Federal}.
+Dispon{\'\i}vel em:
+  $<$\url{http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG/ases-avaliador-e-simulador-de-acessibilidade-sitios}$>$.
+  Acesso em: \today.}
+
+\bibitem{e_mag}
+\abntrefinfo{Federal}{FEDERAL}{b}
+{FEDERAL, G. \emph{Modelo de Acessibilidade em Governo Eletrônico}.
+Dispon{\'\i}vel em:
+  $<$\url{http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG}$>$.
+  Acesso em: \today.}
+
 \end{thebibliography}
