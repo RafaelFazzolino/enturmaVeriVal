@@ -11,7 +11,7 @@
 \contentsline {section}{\numberline {4 }Equipe}{3}{section.0.4}
 \contentsline {section}{\numberline {5 }Produtos, Atividades e Cronograma}{3}{section.0.5}
 \contentsline {subsection}{\numberline {5 .1}Resumo da proposta}{4}{subsection.0.5.1}
-\contentsline {subsection}{\numberline {5 .2}Estrutura Anal\IeC {\'\i }tica do Projeto}{4}{subsection.0.5.2}
+\contentsline {subsection}{\numberline {5 .2}Estrutura Anal\IeC {\'\i }tica do Projeto}{5}{subsection.0.5.2}
 \contentsline {subsection}{\numberline {5 .3}5.3. Lista de software}{5}{subsection.0.5.3}
 \contentsline {subsection}{\numberline {5 .4}Cronograma de Atividades}{5}{subsection.0.5.4}
 \contentsline {section}{\numberline {6 }Resultados Esperados}{5}{section.0.6}
