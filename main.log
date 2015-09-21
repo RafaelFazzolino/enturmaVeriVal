@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.19)  20 SEP 2015 19:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.19)  20 SEP 2015 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1256,7 +1256,7 @@ Underfull \vbox (badness 10000) detected at line 48
  []
 
 
-Overfull \hbox (16.63339pt too wide) in alignment at lines 48--50
+Overfull \hbox (16.63339pt too wide) in alignment at lines 48--51
  [] [] [] [] [] [] [] 
  []
 
@@ -1327,17 +1327,17 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 5.
 [3 <./imagens/roadmap.png>] [4]
-Overfull \hbox (72.57219pt too wide) in paragraph at lines 74--84
+Overfull \hbox (52.95526pt too wide) in paragraph at lines 74--85
  [][] 
  []
 
 <imagens/cronograma.png, id=163, 1196.47pt x 510.90875pt>
 File: imagens/cronograma.png Graphic file (type png)
 <use imagens/cronograma.png>
-Package pdftex.def Info: imagens/cronograma.png used on input line 93.
+Package pdftex.def Info: imagens/cronograma.png used on input line 94.
 (pdftex.def)             Requested size: 483.69687pt x 206.54271pt.
-) (./conteudo/resultados_esperados.tex)) (./main.bbl [5 <./imagens/cronograma.p
-ng>]
+) (./conteudo/resultados_esperados.tex [5 <./imagens/cronograma.png>])) (./main
+.bbl [6]
 Underfull \hbox (badness 10000) in paragraph at lines 35--39
 []\T1/lmr/m/n/10 FEDERAL, G. |   []   |   []   |   []   |   []   |   []   |   [
 ]   |   []   |   []. Dis-
@@ -1357,7 +1357,7 @@ Underfull \hbox (badness 1424) in paragraph at lines 42--46
 
 ) 
 AED: lastpage setting LastPage
-[6
+[7
 
 ]
 
@@ -1374,8 +1374,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 27844 strings out of 493304
- 500124 string characters out of 6139871
+ 27845 strings out of 493304
+ 500130 string characters out of 6139871
  821967 words of memory out of 5000000
  30570 multiletter control sequences out of 15000+600000
  72264 words of font info for 51 fonts, out of 8000000 for 9000
@@ -1391,10 +1391,10 @@ fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (10 pages, 470605 bytes).
+Output written on main.pdf (11 pages, 472478 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 212 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
  140 words of extra memory for PDF output out of 10000 (max. 10000000)
 
