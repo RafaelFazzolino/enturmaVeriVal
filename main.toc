@@ -15,3 +15,6 @@
 \contentsline {subsection}{\numberline {5 .3}5.3. Lista de software}{5}{subsection.0.5.3}
 \contentsline {subsection}{\numberline {5 .4}Cronograma de Atividades}{5}{subsection.0.5.4}
 \contentsline {section}{\numberline {6 }Resultados Esperados}{6}{section.0.6}
+\contentsline {section}{\numberline {7 }Question\IeC {\'a}rio}{6}{section.0.7}
+\contentsline {subsection}{\numberline {7 .1}T\IeC {\'e}cnicas de Questionario}{6}{subsection.0.7.1}
+\contentsline {subsection}{\numberline {7 .2}Planejamento da avalia\IeC {\c c}\IeC {\~a}o de usabilidade e questionario de satisfa\IeC {\c c}\IeC {\~a}o dos usu\IeC {\'a}rios}{6}{subsection.0.7.2}
