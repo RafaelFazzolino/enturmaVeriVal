@@ -18,3 +18,5 @@
 \contentsline {section}{\numberline {7 }Question\IeC {\'a}rio}{6}{section.0.7}
 \contentsline {subsection}{\numberline {7 .1}T\IeC {\'e}cnicas de Questionario}{6}{subsection.0.7.1}
 \contentsline {subsection}{\numberline {7 .2}Planejamento da avalia\IeC {\c c}\IeC {\~a}o de usabilidade e questionario de satisfa\IeC {\c c}\IeC {\~a}o dos usu\IeC {\'a}rios}{6}{subsection.0.7.2}
+\contentsline {section}{\numberline {8 }Anexo}{7}{section.0.8}
+\contentsline {subsection}{\numberline {8 .1}Termo de Conscentimento}{7}{subsection.0.8.1}
