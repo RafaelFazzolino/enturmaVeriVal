@@ -20,3 +20,4 @@
 \contentsline {subsection}{\numberline {7 .2}Planejamento da avalia\IeC {\c c}\IeC {\~a}o de usabilidade e questionario de satisfa\IeC {\c c}\IeC {\~a}o dos usu\IeC {\'a}rios}{6}{subsection.0.7.2}
 \contentsline {section}{\numberline {8 }Anexo}{7}{section.0.8}
 \contentsline {subsection}{\numberline {8 .1}Termo de Conscentimento}{7}{subsection.0.8.1}
+\contentsline {subsection}{\numberline {8 .2}Question\IeC {\'a}rio Perfil do usuario}{7}{subsection.0.8.2}
