@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.5)  15 OCT 2015 00:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.19)  15 OCT 2015 08:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1256,7 +1256,7 @@ Underfull \vbox (badness 10000) detected at line 48
  []
 
 
-Overfull \hbox (20.8974pt too wide) in alignment at lines 48--63
+Overfull \hbox (20.8974pt too wide) in alignment at lines 48--65
  [] [] [] [] [] [] [] 
  []
 
@@ -1407,9 +1407,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--48
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
 [11
 
-]) 
+]
+Overfull \hbox (17.04149pt too wide) in paragraph at lines 70--116
+ [] 
+ []
+
+) 
 AED: lastpage setting LastPage
 [12]
 
@@ -1426,10 +1436,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 28169 strings out of 493304
- 504290 string characters out of 6139871
- 821961 words of memory out of 5000000
- 30853 multiletter control sequences out of 15000+600000
+ 28171 strings out of 493304
+ 504351 string characters out of 6139871
+ 822963 words of memory out of 5000000
+ 30855 multiletter control sequences out of 15000+600000
  72264 words of font info for 51 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  57i,16n,97p,1722b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1443,7 +1453,7 @@ fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (16 pages, 623638 bytes).
+Output written on main.pdf (16 pages, 625974 bytes).
 PDF statistics:
  323 PDF objects out of 1000 (max. 8388607)
  283 compressed objects within 3 object streams
