@@ -19,3 +19,4 @@
 \contentsline {subsection}{\numberline {7 .1}Recursos do produto}{7}{subsection.0.7.1}
 \contentsline {subsection}{\numberline {7 .2}T\IeC {\'e}cnicas de Questionario}{8}{subsection.0.7.2}
 \contentsline {subsection}{\numberline {7 .3}Planejamento da avalia\IeC {\c c}\IeC {\~a}o de usabilidade e questionario de satisfa\IeC {\c c}\IeC {\~a}o dos usu\IeC {\'a}rios}{8}{subsection.0.7.3}
+\contentsline {subsection}{\numberline {7 .4}Roteiro de Utiliza\IeC {\c c}\IeC {\~a}o do Sistema}{8}{subsection.0.7.4}
