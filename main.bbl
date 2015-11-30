@@ -1,0 +1,47 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.50 }
+
+\bibitem{usabilidade_web}
+\abntrefinfo{Nielsen}{NIELSEN}{2007}
+{NIELSEN, J. \emph{Usabilidade na Web - Projetando Websites com Qualidade}.
+  [S.l.]: Traduzido, 2007.}
+
+\bibitem{avaliacao_heuristica}
+\abntrefinfo{Rosa}{ROSA}{}
+{ROSA, J.~M. \emph{Avaliação heurística de usabilidade em jornais online:
+  estudo de caso em dois sites}.
+Dispon{\'\i}vel em: $<$\url{http://www.scielo.br/pdf/pci/v18n1/10.pdf}$>$.
+  Acesso em: \today.}
+
+\bibitem{avaliacao_usa}
+\abntrefinfo{Valente}{VALENTE}{}
+{VALENTE, J. F.~P. \emph{Avaliação da Usabilidade e Diversão em Interfaces
+  Web para Crianças - caso de estudo escolinhas.pt}.
+Dispon{\'\i}vel em:
+  $<$\url{http://repositorio-aberto.up.pt/handle/10216/58099}$>$. Acesso em:
+  \today.}
+
+\bibitem{usabilidade_interfaces}
+\abntrefinfo{Andrade}{ANDRADE}{2007}
+{ANDRADE, A. L.~L. \emph{Usabilidade de Interfaces Web - Avaliação
+  Heurística no Jornalismo On-line}. [S.l.]: 1rd, 2007.}
+
+\bibitem{avaliacao_ases}
+\abntrefinfo{Federal}{FEDERAL}{a}
+{FEDERAL, G. \emph{Avaliador e Simulador de Acessibilidade do Governo Federal}.
+Dispon{\'\i}vel em:
+  $<$\url{http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG/ases-avaliador-e-simulador-de-acessibilidade-sitios}$>$.
+  Acesso em: \today.}
+
+\bibitem{e_mag}
+\abntrefinfo{Federal}{FEDERAL}{b}
+{FEDERAL, G. \emph{Modelo de Acessibilidade em Governo Eletrônico}.
+Dispon{\'\i}vel em:
+  $<$\url{http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG}$>$.
+  Acesso em: \today.}
+
+\end{thebibliography}

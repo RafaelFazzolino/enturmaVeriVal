@@ -1,0 +1,28 @@
+\select@language {brazil}
+\select@language {english}
+\select@language {brazil}
+\contentsline {section}{\numberline {1 }Introdu\IeC {\c c}\IeC {\~a}o}{1}{section.0.1}
+\contentsline {subsection}{\numberline {1 .1}Contexto}{1}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {1 .2}Formula\IeC {\c c}\IeC {\~a}o do problema}{1}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {1 .3}Objetivos}{1}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {1 .4}Justificativas}{1}{subsection.0.1.4}
+\contentsline {section}{\numberline {2 }Fundamenta\IeC {\c c}\IeC {\~a}o Te\IeC {\'o}rica}{1}{section.0.2}
+\contentsline {section}{\numberline {3 }Metodologia de Pesquisa}{3}{section.0.3}
+\contentsline {section}{\numberline {4 }Equipe}{3}{section.0.4}
+\contentsline {section}{\numberline {5 }Produtos, Atividades e Cronograma}{3}{section.0.5}
+\contentsline {subsection}{\numberline {5 .1}Resumo da proposta}{4}{subsection.0.5.1}
+\contentsline {subsection}{\numberline {5 .2}Estrutura Anal\IeC {\'\i }tica do Projeto}{5}{subsection.0.5.2}
+\contentsline {subsection}{\numberline {5 .3}5.3. Lista de software}{5}{subsection.0.5.3}
+\contentsline {subsection}{\numberline {5 .4}Cronograma de Atividades}{5}{subsection.0.5.4}
+\contentsline {section}{\numberline {6 }Resultados Esperados}{6}{section.0.6}
+\contentsline {section}{\numberline {7 }Planejamento de Verifica\IeC {\c c}\IeC {\~a}o e Valida\IeC {\c c}\IeC {\~a}o}{6}{section.0.7}
+\contentsline {subsection}{\numberline {7 .1}Recursos do produto}{7}{subsection.0.7.1}
+\contentsline {subsection}{\numberline {7 .2}T\IeC {\'e}cnicas de Questionario}{8}{subsection.0.7.2}
+\contentsline {subsection}{\numberline {7 .3}Avalia\IeC {\c c}\IeC {\~a}o de Usabilidade e Questionario de Satisfa\IeC {\c c}\IeC {\~a}o dos Usu\IeC {\'a}rios}{8}{subsection.0.7.3}
+\contentsline {subsection}{\numberline {7 .4}Roteiro de Utiliza\IeC {\c c}\IeC {\~a}o do Sistema}{8}{subsection.0.7.4}
+\contentsline {subsection}{\numberline {7 .5}Verifica\IeC {\c c}\IeC {\~a}o da Interface Gr\IeC {\'a}fica}{9}{subsection.0.7.5}
+\contentsline {section}{\numberline {8 }Mudan\IeC {\c c}as de Escopo}{10}{section.0.8}
+\contentsline {section}{\numberline {9 }Resultados Obtidos}{10}{section.0.9}
+\contentsline {subsection}{\numberline {9 .1}Avalia\IeC {\c c}\IeC {\~a}o - Sistema Enturma Vigente}{10}{subsection.0.9.1}
+\contentsline {subsection}{\numberline {9 .2}Avalia\IeC {\c c}\IeC {\~a}o - Sistema Enturma Modificado}{10}{subsection.0.9.2}
+\contentsline {subsection}{\numberline {9 .3}An\IeC {\'a}lise dos Resultados Finais}{10}{subsection.0.9.3}
