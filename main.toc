@@ -22,7 +22,8 @@
 \contentsline {subsection}{\numberline {7 .4}Roteiro de Utiliza\IeC {\c c}\IeC {\~a}o do Sistema}{8}{subsection.0.7.4}
 \contentsline {subsection}{\numberline {7 .5}Verifica\IeC {\c c}\IeC {\~a}o da Interface Gr\IeC {\'a}fica}{9}{subsection.0.7.5}
 \contentsline {section}{\numberline {8 }Mudan\IeC {\c c}as de Escopo}{10}{section.0.8}
+\contentsline {subsection}{\numberline {8 .1}Alternativa Verificada}{10}{subsection.0.8.1}
 \contentsline {section}{\numberline {9 }Resultados Obtidos}{10}{section.0.9}
-\contentsline {subsection}{\numberline {9 .1}Avalia\IeC {\c c}\IeC {\~a}o - Sistema Enturma Vigente}{10}{subsection.0.9.1}
-\contentsline {subsection}{\numberline {9 .2}Avalia\IeC {\c c}\IeC {\~a}o - Sistema Enturma Modificado}{10}{subsection.0.9.2}
-\contentsline {subsection}{\numberline {9 .3}An\IeC {\'a}lise dos Resultados Finais}{10}{subsection.0.9.3}
+\contentsline {subsection}{\numberline {9 .1}Avalia\IeC {\c c}\IeC {\~a}o - Sistema Enturma Vigente}{11}{subsection.0.9.1}
+\contentsline {subsection}{\numberline {9 .2}Avalia\IeC {\c c}\IeC {\~a}o - Sistema Enturma Modificado}{11}{subsection.0.9.2}
+\contentsline {subsection}{\numberline {9 .3}An\IeC {\'a}lise dos Resultados Finais}{11}{subsection.0.9.3}
