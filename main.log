@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.19)  2 DEC 2015 00:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.8.19)  2 DEC 2015 00:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1220,62 +1220,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout4 = `main.ist'.
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fga.jpg>]) (./conteudo/h
-istorico.tex (./conteudo/commit_log.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fga.jpg>]) (./main.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 2.
+(Font)              <10> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <7> on input line 4.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 2.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 5.
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+(Font)              <5> on input line 4.
 )
-Overfull \hbox (20.8974pt too wide) in alignment at lines 14--20
- [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (20.8974pt too wide) in alignment at lines 20--23
- [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (20.8974pt too wide) in alignment at lines 23--26
- [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (20.8974pt too wide) in alignment at lines 26--48
- [] [] [] [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 48
- []
-
-
-Overfull \hbox (20.8974pt too wide) in alignment at lines 48--68
- [] [] [] [] [] [] [] 
- []
-
-
-Overfull \hbox (20.8974pt too wide) in alignment at lines 68--73
- [] [] [] [] [] [] [] 
- []
-
-[1])) [2] (./main.toc)
 \tf@toc=\write9
 \openout9 = `main.toc'.
 
-[3
+[1
 
 ] (./main.lot)
 \tf@lot=\write10
 \openout10 = `main.lot'.
 
-[4
+[2
 
 ] (./conteudo/conteudo.tex (./conteudo/introducao.tex) (./conteudo/fundamentaca
 o_teorica.texpdfTeX warning (ext4): destination with the same identifier (name{
@@ -1318,7 +1280,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
-[2]) (./conteudo/metodologia_pesquisa.tex <imagens/roadmap.png, id=231, 909.397
+[2]) (./conteudo/metodologia_pesquisa.tex <imagens/roadmap.png, id=219, 909.397
 5pt x 227.85126pt>
 File: imagens/roadmap.png Graphic file (type png)
 <use imagens/roadmap.png>
@@ -1331,7 +1293,7 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 5.
-[3 <./imagens/roadmap.png>] [4] <imagens/EAP.png, id=245, 1332.98pt x 474.77374
+[3 <./imagens/roadmap.png>] [4] <imagens/EAP.png, id=234, 1332.98pt x 474.77374
 pt>
 File: imagens/EAP.png Graphic file (type png)
 <use imagens/EAP.png>
@@ -1342,20 +1304,20 @@ Overfull \hbox (52.95526pt too wide) in paragraph at lines 77--88
  [][] 
  []
 
-<imagens/cronograma.png, id=247, 1196.47pt x 510.90875pt>
+<imagens/cronograma.png, id=236, 1196.47pt x 510.90875pt>
 File: imagens/cronograma.png Graphic file (type png)
 <use imagens/cronograma.png>
 Package pdftex.def Info: imagens/cronograma.png used on input line 97.
 (pdftex.def)             Requested size: 483.69687pt x 206.54271pt.
 [5 <./imagens/EAP.png>]) (./conteudo/resultados_esperados.tex) (./conteudo/plan
 ejamento.tex [6 <./imagens/cronograma.png>] (./conteudo/recursos.tex <imagens/m
-odelagem.png, id=261, 716.6775pt x 427.5975pt>
+odelagem.png, id=250, 716.6775pt x 427.5975pt>
 File: imagens/modelagem.png Graphic file (type png)
 <use imagens/modelagem.png>
 Package pdftex.def Info: imagens/modelagem.png used on input line 23.
 (pdftex.def)             Requested size: 338.58632pt x 202.01479pt.
 ) (./conteudo/questionario.tex [7 <./imagens/modelagem.png>] [8] <imagens/ASES.
-png, id=274, 401.5pt x 270.00874pt>
+png, id=262, 401.5pt x 270.00874pt>
 File: imagens/ASES.png Graphic file (type png)
 <use imagens/ASES.png>
 Package pdftex.def Info: imagens/ASES.png used on input line 152.
@@ -1365,13 +1327,13 @@ Package pdftex.def Info: imagens/ASES.png used on input line 152.
 Overfull \vbox (12.0pt too high) detected at line 26
  []
 
-[11] <imagens/funcionalidadeComparar.png, id=301, 803.0pt x 346.29375pt>
+[11] <imagens/funcionalidadeComparar.png, id=290, 803.0pt x 346.29375pt>
 File: imagens/funcionalidadeComparar.png Graphic file (type png)
 <use imagens/funcionalidadeComparar.png>
 Package pdftex.def Info: imagens/funcionalidadeComparar.png used on input line 
 69.
 (pdftex.def)             Requested size: 483.69687pt x 208.59686pt.
-<imagens/novoComparar.png, id=305, 891.33pt x 386.44376pt>
+<imagens/novoComparar.png, id=294, 891.33pt x 386.44376pt>
 File: imagens/novoComparar.png Graphic file (type png)
 <use imagens/novoComparar.png>
 Package pdftex.def Info: imagens/novoComparar.png used on input line 85.
@@ -1380,7 +1342,22 @@ Package pdftex.def Info: imagens/novoComparar.png used on input line 85.
 Overfull \vbox (12.0pt too high) detected at line 105
  []
 
-[13 <./imagens/novoComparar.png>])) (./main.bbl [14]
+[13 <./imagens/novoComparar.png>]
+
+LaTeX Warning: Reference `comparacaoComparar' on page 14 undefined on input lin
+e 155.
+
+<imagens/comparacaoComparar.png, id=308, 573.14125pt x 325.215pt>
+File: imagens/comparacaoComparar.png Graphic file (type png)
+<use imagens/comparacaoComparar.png>
+Package pdftex.def Info: imagens/comparacaoComparar.png used on input line 159.
+
+(pdftex.def)             Requested size: 386.95897pt x 219.57516pt.
+[14])) (./main.bbl [15 <./imagens/comparacaoComparar.png>]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 17.
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 Underfull \hbox (badness 10000) in paragraph at lines 35--39
 []\T1/lmr/m/n/10 FEDERAL, G. |   []   |   []   |   []   |   []   |   []   |   [
 ]   |   []   |   []. Dis-
@@ -1398,7 +1375,7 @@ Underfull \hbox (badness 1424) in paragraph at lines 42--46
 ]. Dis-po-ní-vel em: $\OML/lmm/m/it/10 <$[][]$\T1/lmtt/m/n/10 http : / / www .
  []
 
-) (./conteudo/Anexo.tex [15
+) (./conteudo/Anexo.tex [16
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 15--34
@@ -1420,11 +1397,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--34
 
  []
 
-[16
+[17
 
 ]) 
 AED: lastpage setting LastPage
-[17]
+[18]
 
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
@@ -1436,18 +1413,21 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: EECCFB64C51FD253B53BD628229B0F72;1944.
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 27989 strings out of 493304
- 502979 string characters out of 6139871
- 829961 words of memory out of 5000000
- 30650 multiletter control sequences out of 15000+600000
+ 27984 strings out of 493304
+ 502971 string characters out of 6139871
+ 815961 words of memory out of 5000000
+ 30652 multiletter control sequences out of 15000+600000
  72264 words of font info for 51 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  57i,18n,97p,1722b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/s
 hare/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx9.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/
@@ -1456,10 +1436,10 @@ fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (22 pages, 743542 bytes).
+Output written on main.pdf (21 pages, 743271 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 361 compressed objects within 4 object streams
- 96 named destinations out of 1000 (max. 500000)
- 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 406 PDF objects out of 1000 (max. 8388607)
+ 357 compressed objects within 4 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
 
