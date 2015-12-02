@@ -26,4 +26,4 @@
 \contentsline {section}{\numberline {9 }Resultados Obtidos}{11}{section.0.9}
 \contentsline {subsection}{\numberline {9 .1}Avalia\IeC {\c c}\IeC {\~a}o - Sistema Enturma Vigente}{11}{subsection.0.9.1}
 \contentsline {subsection}{\numberline {9 .2}Avalia\IeC {\c c}\IeC {\~a}o - Sistema Enturma Modificado}{12}{subsection.0.9.2}
-\contentsline {subsection}{\numberline {9 .3}An\IeC {\'a}lise dos Resultados Finais}{13}{subsection.0.9.3}
+\contentsline {subsection}{\numberline {9 .3}An\IeC {\'a}lise dos Resultados Finais}{14}{subsection.0.9.3}
